@@ -48,9 +48,9 @@ Compilation is the process of converting a program written in a high-level langu
 Your flow chart can be written or diagrammatic. If you choose to draw a flow chart, you may draw it by hand. Make sure that all the steps are labeled appropriately. For each step of the compilation process, write one sentence that describes the step.
 
 ## Deliverables:
-1. The pseudocode or flowchart describing the algorithm of your Two Truths and a Lie program in PDF format (name the file design.pdf);
-2. The C++ source code for a program that plays Two Truths and a Lie according to the specifications above (name the file TwoTruthsAndALie.cpp);
-3. A written or diagrammatic description of the compilation process in PDF format (name the file compilation.pdf);
+1. The pseudocode or flowchart describing the algorithm of your Two Truths and a Lie program in PDF format (name the file `design.pdf`);
+2. The C++ source code for a program that plays Two Truths and a Lie according to the specifications above (name the file `TwoTruthsAndALie.cpp`);
+3. A written or diagrammatic description of the compilation process in PDF format (name the file `compilation.pdf`);
 Submit all three files to Gradescope at the same time.
 
 ## Related Learning Objectives:
